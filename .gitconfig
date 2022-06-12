@@ -4,7 +4,7 @@
 	required = true
 	clean = git-lfs clean -- %f
 [user]
-	name = Carlos
+	name = Carlos Quintana
 	email = charly2045@icloud.com
 [init]
 	defaultBranch = main
